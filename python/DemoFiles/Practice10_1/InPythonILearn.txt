@@ -1,0 +1,3 @@
+In Python you can program an application.
+In Python you can sort an unordered list.
+In Python you can read a file from other directory.
